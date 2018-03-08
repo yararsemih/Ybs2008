@@ -7,6 +7,6 @@ kar hesabı,OEE,Adam Başı Ciro alt programlarını açan butonları içerir.
 04032018/sub_programs klasörü Gui olarak tasarlanmış ödevleri içerir.
 
 <h2># 08 Mart 2018</h2>
-python 2.7 sürümü için açılmama hatası giderildi.
+python 2.7 sürümü için açılmama hatası giderildi.<br />
 * import tkinter try fonksiyonu kullanılarak 2.7 uyumluluğu eklendi <br />
 * Türkçe karakterler uyumluluk için kaldırıldı
