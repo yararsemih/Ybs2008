@@ -8,5 +8,5 @@ kar hesabı,OEE,Adam Başı Ciro alt programlarını açan butonları içerir.
 
 <h2># 08 Mart 2018</h2>
 python 2.7 sürümü için açılmama hatası giderildi.
-* import tkinter try fonksiyonu kullanılarak 2.7 uyumluluğu eklendi
+* import tkinter try fonksiyonu kullanılarak 2.7 uyumluluğu eklendi \n
 * Türkçe karakterler uyumluluk için kaldırıldı
