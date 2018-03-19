@@ -5,7 +5,7 @@ programlama 1 -python 3.6.4-
 * Mvc,subprocress ve  tkinter gui kullanılarak tasarlandı <br />
 * subPrograms/Views tkinter la olusturulmus gui classları
 * subPrograms/Controllers herbir sayfa için mantıksal kodları içerir
-![Screenshot](20032018images/1.PNG)
+[Screenshot](20032018images/1.PNG)
 ![Screenshot](20032018images/2.PNG)
 ![Screenshot](20032018images/3.PNG)
 ![Screenshot](20032018images/4.PNG)
