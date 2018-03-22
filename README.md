@@ -1,5 +1,7 @@
 # Ybs2008
 programlama 1 -python 3.6.4-
+<h2># 22 Mart 2018</h2>
+*Ana program While ile oluşturuldu ve ödevler sırası ile fonksiyonlar içine alındı.Ödev numarasını yazıp sonucu görebilirsiniz.
 <h2># 20 Mart 2018</h2>
 *20.03.2018 teslimli ödev Oluşturuldu,<br />
 * Mvc,subprocress ve  tkinter gui kullanılarak tasarlandı <br />
